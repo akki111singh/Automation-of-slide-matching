@@ -14,10 +14,12 @@
       Also note that the sampled frames are almost aligned with the corresponding ground truth
       slide using homography.
 
-#Prerequisites
+# Prerequisites
     * OpenCV(4.1.0)
 # How to run 
       * python3 cv.py <path/to/slides/directory> <path/to/frames/directory>
       * A txt file will be generated which contains a list of frames with their corresponding predicted slide name 
         separated by a single space.
+        
+ This is a team project along with @faixan-khan
       
