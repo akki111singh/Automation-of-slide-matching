@@ -21,5 +21,5 @@
       * A txt file will be generated which contains a list of frames with their corresponding predicted slide name 
         separated by a single space.
         
- This is a team project along with @faixan-khan
+### This is a team project along with @faixan-khan
       
